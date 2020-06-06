@@ -1,0 +1,72 @@
+
+/* div.card {
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+} */
+.img{
+    width: 18rem;
+  height: 0rem;
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+.banner{
+  padding-left: 200px;
+}
+/* For active button */
+.active{
+  background-color:#94083E;
+  border-radius: 360px;
+  color: #94083E;
+}
+#icon{
+ 
+  border-radius: 10px;
+  color: whitesmoke;
+}
+.heading{
+  font-size: x-large;
+  font-weight: bolder;
+  color: #94083E;
+}
+
+.box{
+
+  background-color:whitesmoke;
+  box-shadow: 4px 4px #d6d6c2;
+line-height: 40px;
+
+}
+.card-title
+{
+  color: #94083E !important ; 
+
+}
+.card-img-top{
+  height: 400px;
+}
+.card-text{
+  font-weight: bolder;
+}
+.btn {
+  background-color:#94083E !important; 
+}
+.card{
+  box-shadow:2px 2px 2px 2px grey;
+}
+/* for form inner boxes */
+.form{
+  line-height: 20px;
+  
+}
+.placeholder{
+  height: 70px;
+  width: 400px;
+  color: black;
+ font-family: sans-serif;
+ padding-left: 45px;
+ font-size: 17px;
+}
